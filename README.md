@@ -78,14 +78,6 @@ Planned enhancements include:
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
-## Recommended Repository Name
-
-The most appropriate repository name is:
-
-`ResearchPaperAnalyzer`
-
-It is clear, descriptive, professional, and matches the project’s purpose while being more GitHub-friendly than the kebab-case variant.
-
 ## Contributing
 
 Contributions are welcome. You can:
